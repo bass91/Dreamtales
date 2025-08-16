@@ -1,7 +1,7 @@
 
 # DreamTales — Development Tasks
 
-This checklist follows the PRD (`dreamtales_prd_frd.md`) and coding standards (`AI_CODER_RULES.md`).  
+This checklist follows the PRD (`PRD.md`) and coding standards (`AI_CODER_RULES.md`).  
 MVP scope only. One task per commit/PR.
 
 ## Core Setup
