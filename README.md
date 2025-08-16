@@ -8,7 +8,7 @@ Nuxt 3 PWA for generating safe bedtime stories.
 npm install
 ```
 
-## Miljövariabler & körning
+## Environment variables & running 
 
 Create a `.env` file in the project root:
 
