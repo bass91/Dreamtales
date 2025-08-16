@@ -6,6 +6,20 @@ Nuxt 3 PWA for generating safe bedtime stories.
 
 ```bash
 npm install
+```
+
+## Miljövariabler & körning
+
+Create a `.env` file in the project root:
+
+```bash
+AI_PROVIDER=<provider name>
+AI_API_KEY=<your API key>
+```
+
+Run the development server:
+
+```bash
 npm run dev
 ```
 
