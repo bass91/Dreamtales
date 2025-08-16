@@ -99,7 +99,7 @@ Export:
 - export interface StoryRecord { id: string; createdAt: string; text: string; meta: StoryMeta }
 
 Also add `/lib/ai/wordTargets.ts` with:
-```
+\`\`\`
 import type { StoryLength } from '@/types/story';
 export function wordTargetFor(length: StoryLength){
   switch(length){
@@ -108,7 +108,7 @@ export function wordTargetFor(length: StoryLength){
     case 'long': return {min:900,max:1100};
   }
 }
-```
+\`\`\`
 
 Return diffs.
 ```
